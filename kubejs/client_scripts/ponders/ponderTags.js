@@ -144,6 +144,8 @@ Ponder.tags((e) => {
     "aetherworks:aether_gas_bucket",
     "aetherworks:forge_anvil",
     "aetherworks:forge_tool_station",
+    "aetherworks:lexicon_receptacle",
+    "aetherworks:lexicon"
   ];
   e.createTag(
     "kubejs:aetherworks",
