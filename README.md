@@ -1,6 +1,6 @@
 # Embers Rekindled Ponders
 
-![Ponder of Exchange Tablet](https://private-user-images.githubusercontent.com/2364840/414499156-77235e52-3950-4315-b78a-5c97462b0bf7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk5NzQyOTUsIm5iZiI6MTczOTk3Mzk5NSwicGF0aCI6Ii8yMzY0ODQwLzQxNDQ5OTE1Ni03NzIzNWU1Mi0zOTUwLTQzMTUtYjc4YS01Yzk3NDYyYjBiZjcucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDIxOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTAyMTlUMTQwNjM1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzVlNmM3NzgxYWE2N2ExYzk4MjI5MDBlNjgwZjQ3MTliOWQ4MWE4YWU2ODQyNjAxYzgxOTliMjA1MDk0MmQ5ZSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.FWTThKx1FETvz7M8YXTIDazoOthIILav0huE9HTO9Mg)
+![Ponder of Exchange Tablet](https://github.com/user-attachments/assets/77235e52-3950-4315-b78a-5c97462b0bf7)
 
 This is a library of ponders available for the [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled) mod. It is intended to be used by modpack developers or players to better document the mod with visual explanations.
 
