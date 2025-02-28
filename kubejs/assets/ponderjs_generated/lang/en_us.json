@@ -224,7 +224,6 @@
   "kubejs.ponder.item_pipes_two.text_1": "Item Transfers can be used to filter the outputs of Item Pipes.",
   "kubejs.ponder.item_pipes_two.text_2": "Filters can be set by right clicking an Item Transfer with an item...",
   "kubejs.ponder.item_pipes_two.text_3": "Letting only the filtered item into the attached inventory.",
-  "kubejs.ponder.item_pipes_two.text_4": "Since Item Pipes are an inventory, other mods can be used to filter extract from another inventory into them.",
   "kubejs.ponder.lexicon_scene_one.header": "Bulk Storage Using Lexicons",
   "kubejs.ponder.lexicon_scene_one.text_1": "A Lexicon stores nearly infinite amounts of a single item, once crafted with that item.",
   "kubejs.ponder.lexicon_scene_one.text_2": "It must be placed on a Lexicon Receptacle to insert or extract out of it.",

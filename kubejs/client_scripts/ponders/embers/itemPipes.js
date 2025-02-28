@@ -344,20 +344,6 @@ Ponder.registry((e) => {
             nbt.connection5 = 0
             nbt.connection4 = 2
         });
-        scene.text(120, "Since Item Pipes are an inventory, other mods can be used to filter extract from another inventory into them.")
-
-        scene.idle(80);
-
-        scene.showControls(35, [4, 2, 2], "down").rightClick().withItem('goldenhopper:golden_hopper');
-
-        scene.idle(40);
-
-        scene.world.setBlocks([4, 1, 2], "goldenhopper:golden_hopper");
-        scene.world.modifyBlock([4, 1, 2], () => Block.id("goldenhopper:golden_hopper").with("facing", "west"), false); 
-        scene.world.modifyBlockEntityNBT([3, 1, 2], (nbt) => {
-            nbt.connection5 = 3
-            nbt.connection4 = 2
-        });
         scene.idle(80);
     });
     e.create(['embers:item_pipe', 'embers:item_extractor', 'embers:bin', 'embers:item_dial', 'embers:item_dropper', 'embers:item_vacuum']).scene('item_pipes_three', "Item Transfer Utilities", (scene, util) => {
